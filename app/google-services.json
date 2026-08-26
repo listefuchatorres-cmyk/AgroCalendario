@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6065117195",
+    "project_id": "agrocalendario-b4834",
+    "storage_bucket": "agrocalendario-b4834.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6065117195:android:1c71eb7f1b35e20245cf0e",
+        "android_client_info": {
+          "package_name": "com.example.agrocalendario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6065117195-p68q7b3dka38nepae6icn6i55op1v33u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agrocalendario",
+            "certificate_hash": "cc4fad34630751db4f69a4ec21e9a87cfb9d5a46"
+          }
+        },
+        {
+          "client_id": "6065117195-o0rctgpd2ph5h2m19ppauam33t3g8lc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRefnVqAM2z3JgiEATO9yeEitM-AUVQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6065117195-o0rctgpd2ph5h2m19ppauam33t3g8lc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
