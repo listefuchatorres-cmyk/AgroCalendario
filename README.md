@@ -395,31 +395,31 @@ Proyecto académico: \*\*AgroCalendario\*\* 🌱
 
 ANEXOS
 1. Pantalla bienvenida Y Inicio de sesión y registro   
-<img width="410" height="437" alt="image" src="https://github.com/user-attachments/assets/6a6492e6-5155-4331-82bb-229242b83bd4" />
+<img width="410" height="473" alt="image" src="https://github.com/user-attachments/assets/6a6492e6-5155-4331-82bb-229242b83bd4" />
 
 
 2. Pantalla Iniciar cesión Continuar con Google
-<img width="376" height="438" alt="image" src="https://github.com/user-attachments/assets/280ed215-9a97-4dd3-9832-b76f1c223955" />
+<img width="376" height="473" alt="image" src="https://github.com/user-attachments/assets/280ed215-9a97-4dd3-9832-b76f1c223955" />
 
 
 3. Pantalla Continuar con Google
-<img width="405" height="385" alt="image" src="https://github.com/user-attachments/assets/a217d7c5-c348-43c8-9842-204360ea976d" />
+<img width="405" height="473" alt="image" src="https://github.com/user-attachments/assets/a217d7c5-c348-43c8-9842-204360ea976d" />
 
 
 4. Pantalla Crear Cuenta
-<img width="382" height="374" alt="image" src="https://github.com/user-attachments/assets/02442f14-3c42-472c-ae24-81d0bd8c10b8" />
+<img width="382" height="473" alt="image" src="https://github.com/user-attachments/assets/02442f14-3c42-472c-ae24-81d0bd8c10b8" />
 
 
 5. Pantalla Principal Calendario
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/73fe2197-5e22-4043-b678-02009b3925e0" />
+<img width="720" height="473" alt="image" src="https://github.com/user-attachments/assets/73fe2197-5e22-4043-b678-02009b3925e0" />
 
 
 6. Pantalla Calendario
-<img width="380" height="638" alt="image" src="https://github.com/user-attachments/assets/7dd2dfa9-66aa-4bd9-96b3-cf5ca6dd91d5" />
+<img width="380" height="473" alt="image" src="https://github.com/user-attachments/assets/7dd2dfa9-66aa-4bd9-96b3-cf5ca6dd91d5" />
 
 
 7. Pantalla Registrar Actividad
-<img width="408" height="578" alt="image" src="https://github.com/user-attachments/assets/f89bd0ee-c6a8-408b-8b01-30f2da4bdada" />
+<img width="408" height="473" alt="image" src="https://github.com/user-attachments/assets/f89bd0ee-c6a8-408b-8b01-30f2da4bdada" />
 
 
 8. Pantalla Mis Actividades
@@ -427,15 +427,15 @@ ANEXOS
 
 
 9. Pantalla Perfil
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/fe2a80c6-f709-4329-9c7b-73c4b77d7961" />
+<img width="720" height="473" alt="image" src="https://github.com/user-attachments/assets/fe2a80c6-f709-4329-9c7b-73c4b77d7961" />
 
 
 10. Pantalla Configuracion y Apariencia modo oscuro modo, claro
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/fb5d77d8-b16c-45e7-b04f-8c5419d8d759" />
+<img width="720" height="473" alt="image" src="https://github.com/user-attachments/assets/fb5d77d8-b16c-45e7-b04f-8c5419d8d759" />
 
 
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/14e70137-6977-4b4c-bfa9-1e317635a90c" />
+<img width="371" height="473" alt="image" src="https://github.com/user-attachments/assets/23d4c50a-27bc-4b6f-8e93-c2b6bb6d9b4e" />
 
 
                            
